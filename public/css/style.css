@@ -1,0 +1,65 @@
+body {
+  background-image: url("/ChatGPT Image Jul 7, 2025, 08_29_47 PM.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white; /* Ensures text is readable over background */
+}
+
+
+#main{
+  margin:150PX;
+  margin-left: 250px;
+  height:450px;
+    width:800px;    
+    font-size:25px;
+    color:aliceblue;
+    
+}
+#heading{
+    
+    height:150px;
+    width:300px;    
+    font-size:25px;
+     
+     margin-bottom:50px;
+}
+#para{
+  font-size:2px;  
+  background-color:pink ;
+}
+.footer{
+  background-color: brown;
+}
+#image{
+  background-color:green;
+  height:250px;
+  width:250px;
+  margin-left:110%;
+   margin-top:-350px; 
+
+}
+.nav-link.active {
+    color: white !important;
+}
+#floatingTextarea{
+  height:150px;
+  width:60%;
+  border-radius: 10px;
+  font-size:30px;
+}
+.textarea-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+}
+#submit{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:10px;
+}
+#iamge{
+  margin-left:38%;
+}
