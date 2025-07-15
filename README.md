@@ -6,12 +6,6 @@ A web application that converts user-provided text prompts into AI-generated ima
 
 ## 📌 Project Overview
 This project allows users to input a text description and receive a dynamically generated AI-based image as output. It demonstrates practical integration of AI APIs within a clean and responsive web interface.
-
----
-
-## 🌐 Visit Live Project  
-➡️ [https://thalooriaakash.github.io/text-to-image-generator/](https://thalooriaakash.github.io/text-to-image-generator/)
-
 ---
 
 ## 🚀 Technologies Used
