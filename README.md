@@ -3,7 +3,7 @@
 A web application that converts user-provided text prompts into AI-generated images using HuggingFace APIs.
 
 ## 🌐 Live Demo
-➡️ [Visit the Live Project](https://thalooriaakash.github.io/text-to-image-generator/)  
+➡️ (https://thalooriaakash.github.io/text-to-image-generator/)  
 *(Update this link after hosting with GitHub Pages)*
 
 ## 📌 Project Overview
