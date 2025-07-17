@@ -7,7 +7,7 @@ app.set("view engine", "ejs");
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static('public'));
 
-const API_KEY = "You need to get from hugging.com";
+const API_KEY = "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";
 
 app.get("/", (req, res) => {
     res.render("index.ejs");
